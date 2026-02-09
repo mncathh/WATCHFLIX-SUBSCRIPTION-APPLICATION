@@ -12,4 +12,4 @@ Features
 - Handles invalid inputs using error handling
 
 Purpose
-This project was developed for academic purposes to demonstrate Java fundamentals, object-oriented design, and exception handling through a subscription management system.
+- This project was developed for academic purposes to demonstrate Java fundamentals, object-oriented design, and exception handling through a subscription management system.
