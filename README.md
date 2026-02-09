@@ -1,7 +1,7 @@
 # WATCHFLIX-SUBSCRIPTION-APPLICATION
 
 About
-WATCHFLIX is a Java console-based application that simulates a simple subscription management system. It allows users to manage streaming subscriptions by creating, updating, canceling, and viewing subscription details. The system applies object-oriented programming principles and includes basic error handling to ensure valid user input and smooth execution.
+- WATCHFLIX is a Java console-based application that simulates a simple subscription management system. It allows users to manage streaming subscriptions by creating, updating, canceling, and viewing subscription details. The system applies object-oriented programming principles and includes basic error handling to ensure valid user input and smooth execution.
 
 Features
 - Create subscriptions (Monthly or Yearly)
